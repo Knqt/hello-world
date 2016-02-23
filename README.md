@@ -1,2 +1,4 @@
 # hello-world
-First play with github.
+first time to play with github.
+
+anthor knot wittawat
